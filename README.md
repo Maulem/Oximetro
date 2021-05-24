@@ -1,6 +1,10 @@
 # Projeto oximetro
 ## Henrique Marti & Edgard Ortiz
-Features:
+### Funcionamento:
+
+https://youtu.be/S581sZonNVM
+
+### Features:
 
 -Logo da empresa
 
@@ -16,7 +20,7 @@ Features:
 
 -Relógio (HH:MM)
 
-O usuário é capaz de:
+### O usuário é capaz de:
 
 -Iniciar/Parar coleta de dados
 
@@ -24,7 +28,7 @@ O usuário é capaz de:
 
 -Desligar alarme
 
-Extras
+## Extras
 
 -Possibilita ajustar relógio
 
